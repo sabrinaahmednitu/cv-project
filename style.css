@@ -1,0 +1,10 @@
+.grade{
+    height: 400px;
+    width: 100%;
+    background-image:linear-gradient(to right,red,pink,green,yellow);
+}
+h1{
+    background-color: blue;
+    height: 500px;
+    width: 150px;
+}
